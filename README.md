@@ -1,5 +1,7 @@
 # AI-Powered Data Analysis Suite
 
+https://shorturl.at/lad2u
+
 A comprehensive Streamlit application for data cleaning, processing, visualization, and analysis with AI assistance from Ollama's local LLM (llama3.2).
 
 ## Features
