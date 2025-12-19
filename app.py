@@ -726,3 +726,4 @@ st.markdown("---")
 st.markdown("<div style='text-align: center; color: gray;'>AI-Powered Data Analysis Suite |Created by Mohammad Saeed Angiz| Powered by Streamlit & Ollama</div>", unsafe_allow_html=True)
 
 
+
